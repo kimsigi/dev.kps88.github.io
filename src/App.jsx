@@ -31,7 +31,7 @@ function App() {
   return (
     <div className='App'>
       <div className='black-nav'>
-        <h4>React Blog</h4>
+        <h4>React Blog!</h4>
       </div>
       
       <button onClick={() => {
